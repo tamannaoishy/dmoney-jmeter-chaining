@@ -32,21 +32,6 @@ All requests use a **single admin login** to generate a token, which is reused a
   
 - 📈 Report: Includes screenshots from HTML Summary Report
 
----
-
-## 📂 Folder Structure
-dmoney-jmeter-chaining/
-│
-├── dmoney.jmx
-├── deposit.csv
-├── send_money.csv
-├── payment.csv
-├── dmoney.jtl
-├── jmeter.log
-├── Reports
-└── README.md
-
----
 
 ## 📸 Report Screenshots
 
