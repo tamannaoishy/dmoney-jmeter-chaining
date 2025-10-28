@@ -10,7 +10,7 @@ This simulation performs the following:
 - ✅ **5 Customers** send money to **10 other Customers**
 - ✅ **5 Customers** make payments to **2 Merchants**
 
-All requests use a **single admin login** to generate a token, which is reused across all threads.
+All requests use a **single admin login** to generate a token, which is reused across all threads (via **HTTP Header Manager**).
 
 ---
 
