@@ -29,7 +29,7 @@ All requests use a **single admin login** to generate a token, which is reused a
   - Ramp-up time: 120 seconds
 - 📑 Assertions:
   - JSON Response Assertion to validate `successful transaction` 
-  - Status code check = 200
+  
 - 📈 Report: Includes screenshots from HTML Summary Report
 
 ---
